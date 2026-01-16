@@ -1,8 +1,5 @@
 # Task 2 – Operating System Security Fundamentals (Linux & Windows)
 
-## Internship
-Cyber Security Internship – Task 2
-
 ## Objective
 The objective of this task is to understand operating system–level security concepts and apply basic OS hardening techniques using Linux/Windows.
 
