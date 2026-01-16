@@ -8,13 +8,12 @@ Ubuntu/Kali Linux (Virtual Machine)
 
 ## Tools Used
 - VirtualBox
-- Ubuntu Linux
 - Kali Linux
 - UFW Firewall
 - Linux terminal commands
 
 ## Tasks Performed
-- Installed and configured Ubuntu Linux in a virtual machine
+- Installed and configured Kali Linux in a virtual machine
 - Explored user accounts and access control mechanisms
 - Studied Linux file permissions using chmod, chown, and ls -l
 - Understood the difference between root and normal users
