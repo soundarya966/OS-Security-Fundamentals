@@ -1,0 +1,18 @@
+# User and Permission Commands
+whoami
+id
+ls -l
+chmod 640 file.txt
+chown user:group file.txt
+
+# Firewall Commands
+sudo ufw status
+sudo ufw enable
+sudo ufw allow ssh
+
+# Process and Service Commands
+ps aux
+top
+systemctl list-units --type=service
+sudo systemctl stop bluetooth
+sudo systemctl disable bluetooth
