@@ -4,11 +4,12 @@
 The objective of this task is to understand operating system–level security concepts and apply basic OS hardening techniques using Linux/Windows.
 
 ## Operating System Used
-Ubuntu Linux (Virtual Machine)
+Ubuntu/Kali Linux (Virtual Machine)
 
 ## Tools Used
 - VirtualBox
 - Ubuntu Linux
+- Kali Linux
 - UFW Firewall
 - Linux terminal commands
 
